@@ -1,0 +1,159 @@
+Date of analysis = 2020-12-09 10:49:50.860527
+Technology filter = Superconductor
+Take max = True
+Combined mode = True
+Number of bootstraps = 1000
+Critical threshold = 4100
+Seed = 1111
+n = 36
+t = 4488 days 00:00:00 years ; [2007-08-09 00:00:00, 2019-11-22 00:00:00]
+We needed to repeat 20 resamples
+There are 267 distinct trajectories
+The median of physical qubits data points after aggregation was 11.0
+The median of average two-qubit gate error rate data points after aggregation was 6.0
+The 1 threshold won't be reached until year 2026.066066066066 for Bootstrap quantile 0.05
+The 4100 threshold won't be reached until year 2039.6996996996997 for Bootstrap quantile 0.05
+The 1 threshold won't be reached until year 2030.4504504504505 for Bootstrap quantile 0.5
+The 4100 threshold won't be reached until year 2050.4504504504503 for Bootstrap quantile 0.5
+The 1 threshold won't be reached until year 2033.2732732732734 for Bootstrap quantile 0.95
+The 4100 threshold won't be reached until year 2059.039039039039 for Bootstrap quantile 0.95
+Simulation done!
+
+----------------------------------------------------------------------------------------------------
+
+Date of analysis = 2020-12-09 11:11:41.096345
+Technology filter = Superconductor
+Take max = True
+Combined mode = True
+Number of bootstraps = 1000
+Critical threshold = 4100
+n multivariate samples = 10000
+Seed = 1111
+n = 36
+t = 4488 days 00:00:00 years ; [2007-08-09 00:00:00, 2019-11-22 00:00:00]
+We needed to repeat 20 resamples
+There are 267 distinct trajectories
+The median of physical qubits data points after aggregation was 11.0
+The median of average two-qubit gate error rate data points after aggregation was 6.0
+The 1 threshold won't be reached until year 2027.0870870870872 for Bootstrap quantile 0.05 multivariate quantile 0.05
+The 4100 threshold won't be reached until year 2040.5405405405406 for Bootstrap quantile 0.05 multivariate quantile 0.05
+The 1 threshold won't be reached until year 2026.066066066066 for Bootstrap quantile 0.05 multivariate quantile 0.5
+The 4100 threshold won't be reached until year 2039.6996996996997 for Bootstrap quantile 0.05 multivariate quantile 0.5
+The 1 threshold won't be reached until year 2025.1051051051052 for Bootstrap quantile 0.05 multivariate quantile 0.95
+The 4100 threshold won't be reached until year 2038.918918918919 for Bootstrap quantile 0.05 multivariate quantile 0.95
+The 1 threshold won't be reached until year 2032.132132132132 for Bootstrap quantile 0.5 multivariate quantile 0.05
+The 4100 threshold won't be reached until year 2052.5525525525527 for Bootstrap quantile 0.5 multivariate quantile 0.05
+The 1 threshold won't be reached until year 2030.4504504504505 for Bootstrap quantile 0.5 multivariate quantile 0.5
+The 4100 threshold won't be reached until year 2050.5105105105104 for Bootstrap quantile 0.5 multivariate quantile 0.5
+The 1 threshold won't be reached until year 2028.7687687687687 for Bootstrap quantile 0.5 multivariate quantile 0.95
+The 4100 threshold won't be reached until year 2048.4084084084084 for Bootstrap quantile 0.5 multivariate quantile 0.95
+The 1 threshold won't be reached until year 2035.0750750750751 for Bootstrap quantile 0.95 multivariate quantile 0.05
+The 4100 threshold won't be reached by year 2060.0 for Bootstrap quantile 0.95 multivariate quantile 0.05
+The 1 threshold won't be reached until year 2033.2732732732734 for Bootstrap quantile 0.95 multivariate quantile 0.5
+The 4100 threshold won't be reached until year 2059.039039039039 for Bootstrap quantile 0.95 multivariate quantile 0.5
+The 1 threshold won't be reached until year 2031.5915915915916 for Bootstrap quantile 0.95 multivariate quantile 0.95
+The 4100 threshold won't be reached until year 2056.936936936937 for Bootstrap quantile 0.95 multivariate quantile 0.95
+Simulation done!
+
+--------------------------------------------------------------------------------
+
+Date of analysis = 2020-12-09 12:12:21.907267
+Technology filter = Superconductor
+Take max = False
+Combined mode = True
+Number of bootstraps = 1000
+Critical threshold = 4100
+Seed = 1111
+n = 36
+t = 4488 days 00:00:00 years ; [2007-08-09 00:00:00, 2019-11-22 00:00:00]
+We needed to repeat 0 resamples
+There are 367 distinct trajectories
+The median of physical qubits data points after aggregation was 36.0
+The median of average two-qubit gate error rate data points after aggregation was 28.0
+The 1 threshold won't be reached by year 2060.0 for Bootstrap quantile 0.05
+The 4100 threshold won't be reached by year 2060.0 for Bootstrap quantile 0.05
+The 1 threshold won't be reached until year 2045.2252252252251 for Bootstrap quantile 0.5
+The 4100 threshold won't be reached by year 2060.0 for Bootstrap quantile 0.5
+The 1 threshold won't be reached until year 2059.3993993993995 for Bootstrap quantile 0.95
+The 4100 threshold won't be reached by year 2060.0 for Bootstrap quantile 0.95
+Simulation done!
+
+-------------------------
+
+Date of analysis = 2020-12-09 12:24:56.908867
+Technology filter = Superconductor
+Take max = True
+Combined mode = True
+Number of bootstraps = 1000
+Critical threshold = 4100
+Seed = 1111
+n = 33
+t = 2039 days 00:00:00 years ; [2014-04-23 00:00:00, 2019-11-22 00:00:00]
+We needed to repeat 268 resamples
+There are 304 distinct trajectories
+The median of physical qubits data points after aggregation was 8.0
+The median of average two-qubit gate error rate data points after aggregation was 4.0
+The 1 threshold won't be reached until year 2021.6216216216217 for Bootstrap quantile 0.05
+The 4100 threshold won't be reached until year 2026.1861861861862 for Bootstrap quantile 0.05
+The 1 threshold won't be reached until year 2027.6276276276276 for Bootstrap quantile 0.5
+The 4100 threshold won't be reached until year 2040.2402402402402 for Bootstrap quantile 0.5
+The 1 threshold won't be reached until year 2032.4924924924926 for Bootstrap quantile 0.95
+The 4100 threshold won't be reached until year 2050.930930930931 for Bootstrap quantile 0.95
+Simulation done!
+
+-------------------------------------
+
+Date of analysis = 2020-12-09 14:48:36.301277
+Technology filter = Superconductor
+Take max = True
+Combined mode = False
+Number of bootstraps = 1000
+Critical threshold = 4100
+Seed = 1111
+n = 36
+t = 4488 days 00:00:00 years ; [2007-08-09 00:00:00, 2019-11-22 00:00:00]
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:170: RuntimeWarning: overflow encountered in exp
+We needed to repeat 367 resamples
+There are 69 distinct trajectories
+The median of physical qubits data points after aggregation was 11.0
+The median of average two-qubit gate error rate data points after aggregation was 6.0
+The median of generalized logical qubits data points after aggregation was 4.0
+The 1 threshold won't be reached until year 2020.5405405405406 for Bootstrap quantile 0.05
+The 4100 threshold won't be reached until year 2021.5015015015015 for Bootstrap quantile 0.05
+The 1 threshold won't be reached until year 2028.5285285285286 for Bootstrap quantile 0.5
+The 4100 threshold won't be reached until year 2040.6606606606606 for Bootstrap quantile 0.5
+The 1 threshold won't be reached until year 2029.2492492492493 for Bootstrap quantile 0.95
+The 4100 threshold won't be reached until year 2041.981981981982 for Bootstrap quantile 0.95
+Simulation done!
+
+-----------------------------------------
+
+Date of analysis : 2020-12-09 15:08:15.223723
+n = 10
+μ=0.7535981217687973
+K2=0.8019856520680307
+θ=0.63
+m=5
+estimated doubling time = 0.9197835829699715 years
+
+SHAPHIRO-WILK TEST
+W=0.859576940536499
+p-value=0.22673337161540985
+
+The quantity of GLQs will exceed 1 by the year 2024.852852852853 with probability 15%
+The quantity of GLQs will exceed 1 by the year 2028.922922922923 with probability 50%
+The quantity of GLQs will exceed 1 by the year 2055.73973973974 with probability 85%
+
+The quantity of GLQs will exceed 4100 by the year 2031.129129129129 with probability 15%
+The quantity of GLQs will exceed 4100 by the year 2039.953953953954 with probability 50%
